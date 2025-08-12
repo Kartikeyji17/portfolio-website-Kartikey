@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-**[View Live Portfolio →](https://yourusername.github.io/portfolio-website)**
+**[View Live Portfolio →](https://kartikeyji17.github.io/portfolio-website-Kartikey)**
 
 ## 📸 Preview
 
@@ -146,7 +146,7 @@ Update the logo in the navigation:
 2. Upload all files to the repository
 3. Go to repository Settings > Pages
 4. Select "Deploy from a branch" and choose "main"
-5. Your site will be available at `https://yourusername.github.io/repository-name`
+5. Your site will be available at `https://kartikeyji17.github.io/portfolio-website-Kartikey`
 
 ### Option 2: Netlify
 1. Create account at [Netlify](https://netlify.com)
